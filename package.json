@@ -7,7 +7,7 @@
     "defaults, not ie > 0, edge > 18"
   ],
   "dependencies": {
-    "@babel/core": "^7.22.10",
+    "@babel/core": "^7.23.2",
     "@babel/register": "7.15.3",
     "@jetbrains/babel-preset-jetbrains": "^2.3.1",
     "@jetbrains/kotlin-web-site-ui": "4.8.3",
