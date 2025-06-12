@@ -15,3 +15,4 @@ ruamel.yaml==0.17.21
 PyYAML==5.4.1
 algoliasearch==1.20.0
 Werkzeug==2.3.8
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
