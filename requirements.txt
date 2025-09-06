@@ -4,7 +4,7 @@ frozen-flask==0.18
 Pygments==2.12.0
 python-frontmatter==1.0.0
 beautifulsoup4==4.11.1
-xmltodict==0.13.0
+xmltodict==0.15.0
 
 # temporary dependencies for waiting fix:
 #    https://yandex.ru/blog/mapsapi/prekraschaem-podderzhku-anonimnykh-servisov
